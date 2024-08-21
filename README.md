@@ -6,4 +6,4 @@ Patient insight data source: The primary data used for patient insights is "DW T
 
 ### Tools
 - Excel
-- Tableau
+- Tableau [go to Tableau..](https://public.tableau.com/shared/9WR8GWX8R?:display_count=n&:origin=viz_share_link)
